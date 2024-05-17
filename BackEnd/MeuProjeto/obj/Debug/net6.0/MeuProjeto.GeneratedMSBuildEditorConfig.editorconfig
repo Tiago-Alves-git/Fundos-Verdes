@@ -1,0 +1,16 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MeuProjeto
+build_property.RootNamespace = MeuProjeto
+build_property.ProjectDir = /home/tiago/Documents/GitHub-Repo/FundosVerdes/BackEnd/MeuProjeto/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /home/tiago/Documents/GitHub-Repo/FundosVerdes/BackEnd/MeuProjeto
+build_property._RazorSourceGeneratorDebug = 

@@ -1,0 +1,1 @@
+const connectionString = "Server=localhost,1433;Database=MeuBancoDeDados;User Id=SA;Password=123456;";
